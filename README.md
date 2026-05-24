@@ -3,25 +3,25 @@
 
 <img src="./banner.png" width="100%" />
 
-</div>
 # Rohan Kirdak
+
 ### Full Stack MERN Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Full+Stack+MERN+Developer;Building+Scalable+Web+Applications;Crafting+Premium+UI%2FUX+Experiences;React+%7C+Node.js+%7C+MongoDB+%7C+TypeScript" alt="Typing SVG" />
-
-<br/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=React+%7C+Node.js+%7C+MongoDB+%7C+TypeScript;Building+Scalable+Web+Applications;Modern+UI%2FUX+Experiences;Backend+Architecture+%26+Performance" alt="Typing SVG" />
 
 ![](https://komarev.com/ghpvc/?username=hustlerss&color=blueviolet&style=flat-square)
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-rust-omega-ch31ayef58.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-rust-omega.vercel.app)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rohan-kirdak-240810254)
+
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hustlerss)
+
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohankirdak8756@gmail.com)
 
 </div>
-
 ---
 
 # 🚀 About Me
