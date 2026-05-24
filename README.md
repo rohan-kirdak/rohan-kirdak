@@ -1,5 +1,9 @@
 <div align="center">
+<div align="center">
 
+<img src="./banner.png" width="100%" />
+
+</div>
 # Rohan Kirdak
 ### Full Stack MERN Developer
 
