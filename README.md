@@ -7,6 +7,10 @@
 
 <br/>
 
+![](https://komarev.com/ghpvc/?username=hustlerss&color=blueviolet&style=flat-square)
+
+<br/>
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-rust-omega.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rohan-kirdak-240810254)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hustlerss)
@@ -16,7 +20,7 @@
 
 ---
 
-# About Me
+# 🚀 About Me
 
 ```js
 const rohan = {
@@ -39,7 +43,7 @@ I enjoy transforming complex problems into clean digital experiences using moder
 
 ---
 
-# Tech Stack
+# ⚡ Tech Stack
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -66,7 +70,7 @@ I enjoy transforming complex problems into clean digital experiences using moder
 
 ---
 
-# Featured Projects
+# 💼 Featured Projects
 
 ## HireWave — MERN Recruitment Platform
 
@@ -118,27 +122,11 @@ I enjoy transforming complex problems into clean digital experiences using moder
 
 ---
 
-## Sunkool Website — Premium Animated Business Website
-
-> High-end animated website focused on modern UI/UX and smooth interactions.
-
-**Tech Stack:** React.js • GSAP • Tailwind CSS
-
-### Features
-- Premium animations using GSAP
-- Smooth scrolling interactions
-- Responsive UI/UX design
-- Performance-focused frontend architecture
-
-🔗 **Repository:** https://github.com/hustlerss
-
----
-
-# GitHub Analytics
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=hustlerss&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=hustlerss&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=hustlerss&theme=tokyonight&hide_border=true" />
 
@@ -146,17 +134,17 @@ I enjoy transforming complex problems into clean digital experiences using moder
 
 ---
 
-# Most Used Languages
+# 🧠 Most Used Languages
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hustlerss&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hustlerss&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-# GitHub Trophies
+# 🏆 GitHub Trophies
 
 <div align="center">
 
@@ -166,7 +154,7 @@ I enjoy transforming complex problems into clean digital experiences using moder
 
 ---
 
-# Contribution Graph
+# 📈 Contribution Graph
 
 <div align="center">
 
@@ -176,17 +164,17 @@ I enjoy transforming complex problems into clean digital experiences using moder
 
 ---
 
-# Snake Animation
+# 🐍 Snake Animation
 
 <div align="center">
 
-![Snake animation](https://github.com/hustlerss/hustlerss/blob/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/hustlerss/hustlerss/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </div>
 
 ---
 
-# Current Focus
+# 🎯 Current Focus
 
 - Building scalable MERN applications
 - Advanced backend architecture
@@ -196,7 +184,7 @@ I enjoy transforming complex problems into clean digital experiences using moder
 
 ---
 
-# Connect With Me
+# 🌐 Connect With Me
 
 <div align="center">
 
