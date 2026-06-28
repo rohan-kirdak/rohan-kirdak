@@ -11,7 +11,7 @@
 
 <br/>
 
-![](https://komarev.com/ghpvc/?username=hustlerss&color=blueviolet&style=flat-square)
+![](https://komarev.com/ghpvc/?username=rohan-kirdak&color=blueviolet&style=flat-square)
 
 <br/><br/>
 
@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/hustlerss">
+<a href="https://github.com/rohan-kirdak">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -99,7 +99,7 @@ I enjoy transforming complex problems into clean digital experiences using moder
 - Optimized backend queries for scalability
 
 🔗 **Live Demo:** https://hire-wave-gamma.vercel.app  
-🔗 **Repository:** https://github.com/hustlerss
+🔗 **Repository:** https://github.com/rohan-kirdak
 
 ---
 
@@ -116,7 +116,7 @@ I enjoy transforming complex problems into clean digital experiences using moder
 - Optimized frontend performance
 
 🔗 **Live Demo:** https://startup-sensei-main.vercel.app  
-🔗 **Repository:** https://github.com/hustlerss
+🔗 **Repository:** https://github.com/rohan-kirdak
 
 ---
 
@@ -132,7 +132,7 @@ I enjoy transforming complex problems into clean digital experiences using moder
 - Optimized relational database schema
 - Search & filtering functionality
 
-🔗 **Repository:** https://github.com/hustlerss/project-rabbit-1
+🔗 **Repository:** https://github.com/rohan-kirdak/project-rabbit-1
 
 ---
 
@@ -140,9 +140,9 @@ I enjoy transforming complex problems into clean digital experiences using moder
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=hustlerss&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=rohan-kirdak&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=hustlerss&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=rohan-kirdak&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -152,7 +152,7 @@ I enjoy transforming complex problems into clean digital experiences using moder
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hustlerss&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rohan-kirdak&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -162,7 +162,7 @@ I enjoy transforming complex problems into clean digital experiences using moder
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=hustlerss&theme=tokyonight&no-frame=true&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=rohan-kirdak&theme=tokyonight&no-frame=true&row=1&column=6" />
 
 </div>
 
@@ -172,7 +172,7 @@ I enjoy transforming complex problems into clean digital experiences using moder
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hustlerss&theme=tokyo-night&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rohan-kirdak&theme=tokyo-night&hide_border=true" />
 
 </div>
 
@@ -182,7 +182,7 @@ I enjoy transforming complex problems into clean digital experiences using moder
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/hustlerss/hustlerss/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/rohan-kirdak/rohan-kirdak/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </div>
 
@@ -210,7 +210,7 @@ I enjoy transforming complex problems into clean digital experiences using moder
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/hustlerss">
+<a href="https://github.com/rohan-kirdak">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
